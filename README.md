@@ -20,7 +20,10 @@ Whether you're evaluating candidates during interviews, tracking long-term emplo
 
 
 
-What makes RecruitIQ different?
+
+
+
+✨What makes RecruitIQ different?
 🔍 1. Session-Based Interview Evaluation
 
 Interviewers can create sessions dedicated to a hiring round and:
